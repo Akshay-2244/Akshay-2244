@@ -47,5 +47,3 @@
 
 ---
 
-> ⚡ "I enjoy building things that help people — one project at a time."
-
