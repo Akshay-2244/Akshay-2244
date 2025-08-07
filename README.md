@@ -25,8 +25,14 @@
 > - 💡 Daily motivational quotes via API
 
 #### [🌦️ Weather Forecast Web App](https://github.com/Akshay-2244/Weather-API)
-> A clean and responsive weather app using HTML, CSS, and JavaScript  
-> Pulls real-time weather using the OpenWeatherMap API with error handling.
+> A responsive web application built using **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data from the OpenWeatherMap API.  
+> Users can search for any city and instantly view:
+> - 🌡️ Temperature (in °C)
+> - 💧 Humidity
+> - ☁️ Weather condition (like "clear sky", "rain", etc.)
+> - 😎 Visual emoji that reflects the weather
+>
+> The app uses `fetch()` for API requests and handles invalid inputs with user-friendly error messages.
 
 ---
 
