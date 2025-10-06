@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Akshaykumar 👋</h1>
 
 <p align="center">
-  🧠 CS Engineering Student | 💻 Python & JavaScript Developer | 🎮 VR + Web Enthusiast
+  🧠 CS Engineering Student | 💻 Front-End Developer | 🎮 Web Enthusiast
 </p>
 
 ---
@@ -33,6 +33,19 @@
 > - 😎 Visual emoji that reflects the weather
 >
 > The app uses `fetch()` for API requests and handles invalid inputs with user-friendly error messages.
+
+---
+
+#### [🏁 Typing Race Challenge (React)](https://speedy-typing-race.netlify.app/)
+
+> An interactive web application built using **React.js** and **Tailwind CSS** that helps users improve typing speed and accuracy.
+> Users can:
+>
+> * ⏱ Participate in 60-second timed typing races
+> * 📝 Track real-time Words Per Minute (WPM) and Accuracy
+> * 🎨 See dynamic character highlighting for correct/incorrect/modified text
+> * 💾 Review persistent race history stored locally
+> * 🌙 Toggle between Light and Dark themes
 
 ---
 
