@@ -11,7 +11,7 @@
 - 🎓 B.E. Computer Science at Coimbatore Institute of Technology (2021–2025)
 - 💡 Passionate about solving real-world problems through code and interactive experiences
 - 🔧 Exploring full-stack web development, Python automation, and VR simulation
-- 🧰 Skilled in Python, JavaScript, HTML, CSS, Unity, Blender
+- 🧰 Skilled in Python, JavaScript, HTML, React, Tailwind CSS, CSS, Unity, Blender
 
 ---
 
