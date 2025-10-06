@@ -60,7 +60,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay-2244&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-2244&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
