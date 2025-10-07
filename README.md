@@ -34,8 +34,6 @@
 >
 > The app uses `fetch()` for API requests and handles invalid inputs with user-friendly error messages.
 
----
-
 #### [🏁 Typing Race Challenge (React)](https://speedy-typing-race.netlify.app/)
 
 > An interactive web application built using **React.js** and **Tailwind CSS** that helps users improve typing speed and accuracy.
